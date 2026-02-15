@@ -1,80 +1,24 @@
 {
   "version": 1,
-  "base_track": "烈火",
+  "base_track": "烈火（feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ）",
   "base_artist": "Vivid BAD SQUAD",
-  "createdAt": "2025-12-01T08:37:11.255913Z",
+  "createdAt": "2026-02-15T16:10:27.094070Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "烈火",
-      "artist": "欧阳菲菲",
-      "has_synced": false,
-      "path": "select/01_烈火_欧阳菲菲.txt"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "烈火",
-      "artist": "关淑怡",
-      "has_synced": false,
-      "path": "select/02_烈火_关淑怡.txt"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "烈火",
-      "artist": "Vivid BAD SQUAD",
-      "has_synced": true,
-      "path": "select/03_烈火_Vivid_BAD_SQUAD.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
       "title": "烈火 (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ)",
       "artist": "Vivid BAD SQUAD",
       "has_synced": true,
-      "path": "select/04_烈火_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ)_Vivid_BAD_SQUAD.lrc"
+      "path": "select/01_烈火_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ)_Vivid_BAD_SQUAD.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "烈火",
-      "artist": "Kra",
+      "title": "烈火 (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ)",
+      "artist": "Vivid BAD SQUAD",
       "has_synced": false,
-      "path": "select/pl_01_烈火_Kra.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "烈火☆スターシップ",
-      "artist": "Kra",
-      "has_synced": false,
-      "path": "select/pl_02_烈火☆スターシップ_Kra.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "烈火",
-      "artist": "Kra",
-      "has_synced": false,
-      "path": "select/pl_03_烈火_Kra.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "烈火島",
-      "artist": "Kra",
-      "has_synced": false,
-      "path": "select/pl_04_烈火島_Kra.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "烈火",
-      "artist": "Kra",
-      "has_synced": false,
-      "path": "select/pl_05_烈火_Kra.txt"
+      "path": "select/pl_01_烈火_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ)_Vivid_BAD_SQUAD.txt"
     }
   ]
 }
